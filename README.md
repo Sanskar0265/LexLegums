@@ -1,2 +1,0 @@
-# LexLegums
-LexLegums Tasks
